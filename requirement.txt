@@ -1,0 +1,11 @@
+pyttsx3
+streamlit
+SpeechRecognition
+requests
+beautifulsoup4
+wikipedia-api
+wikipedia
+pyjokes
+googletrans
+streamlit-lottie
+pyaudio
